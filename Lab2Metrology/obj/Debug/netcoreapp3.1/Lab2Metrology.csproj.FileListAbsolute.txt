@@ -1,0 +1,13 @@
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\bin\Debug\netcoreapp3.1\Lab2Metrology.exe
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\bin\Debug\netcoreapp3.1\Lab2Metrology.deps.json
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\bin\Debug\netcoreapp3.1\Lab2Metrology.runtimeconfig.json
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\bin\Debug\netcoreapp3.1\Lab2Metrology.runtimeconfig.dev.json
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\bin\Debug\netcoreapp3.1\Lab2Metrology.dll
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\bin\Debug\netcoreapp3.1\Lab2Metrology.pdb
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.csprojAssemblyReference.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.AssemblyInfoInputs.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.AssemblyInfo.cs
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.csproj.CoreCompileInputs.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.dll
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.pdb
+C:\Users\7igor\source\repos\Lab2Metrology\Lab2Metrology\obj\Debug\netcoreapp3.1\Lab2Metrology.genruntimeconfig.cache

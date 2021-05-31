@@ -1,0 +1,17 @@
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Analizer.exe
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Analizer.deps.json
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Analizer.runtimeconfig.json
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Analizer.runtimeconfig.dev.json
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Analizer.dll
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Analizer.pdb
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.csprojAssemblyReference.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.AssemblyInfoInputs.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.AssemblyInfo.cs
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.csproj.CoreCompileInputs.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.dll
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.pdb
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.genruntimeconfig.cache
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Lab2Metrology.exe
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Lab2Metrology.dll
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\bin\Debug\netcoreapp3.1\Lab2Metrology.pdb
+C:\Users\7igor\source\repos\Lab2Metrology\Analiser\obj\Debug\netcoreapp3.1\Analizer.csproj.CopyComplete
